@@ -70,6 +70,7 @@ p {
 .button-main {
     background: #ADFF00;
     border-radius: 30px;
+    margin-bottom: 60px;
     width: 239px;
     height: 64px;
     border: none;
